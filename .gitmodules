@@ -1,0 +1,6 @@
+[submodule "02-car-dealer-ship"]
+	path = 02-car-dealer-ship
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_nest_car_dealer_ship.git
+[submodule "01-typescript-intro"]
+	path = 01-typescript-intro
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_nest_typescript_intro.git
