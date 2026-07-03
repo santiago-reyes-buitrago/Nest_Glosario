@@ -4,3 +4,6 @@
 [submodule "microservices"]
 	path = microservices
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_nest_microServices.git
+[submodule "graphQL/02-todo"]
+	path = graphQL/02-todo
+	url = https://github.com/santiago-reyes-buitrago/graphql-todo.git
