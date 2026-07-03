@@ -1,0 +1,204 @@
+﻿Diagnose log at 2026-07-02T14:25:54Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.6.1+786ab03440ddc82e807a97c0e540f5247e44cec6
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\HelpDesk
+CLAUDE_CODE_CHILD_SESSION=1
+COMPUTERNAME=DESKTOP-F7GIRLE
+DriverData=C:\Windows\System32\Drivers\DriverData
+GIT_TRACE2_PARENT_SID=2d651034-51c3-4175-af6d-c0d0aac10c1f
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\HelpDesk\OneDrive - PLATINUM SOLUTIONS
+EFC_7252_2283032206=1
+IJ_RESTARTER_LOG=C:\Users\HelpDesk\AppData\Local\JetBrains\WebStorm2026.1\log\restarter.log
+CLAUDECODE=1
+EFC_7252_4126798990=1
+EFC_7252_3789132940=1
+WebStorm=C:\Program Files\JetBrains\WebStorm 2025.1.1\bin;
+TMP=C:\Users\HelpDesk\AppData\Local\Temp
+PROCESSOR_REVISION=9e0a
+CLAUDE_CODE_SSE_PORT=64474
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL
+TERMINAL_EMULATOR=JetBrains-JediTerm
+PROCESSOR_LEVEL=6
+TEMP=C:\Users\HelpDesk\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\HelpDesk\AppData\Local
+PUBLIC=C:\Users\Public
+JB_IMPORT_SETTINGS_FROM=C:\Users\HelpDesk\AppData\Roaming\JetBrains\WebStorm2026.1
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+GIT_EDITOR=true
+ProgramW6432=C:\Program Files
+PSExecutionPolicyPreference=Bypass
+JAVA_HOME=C:\Program Files\Java\jdk-25
+CLAUDE_CODE_ENTRYPOINT=cli
+Path=C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\HelpDesk\AppData\Local\nvm;C:\nvm4w\nodejs;C:\Program Files\Java\jdk-25\bin;;C:\Program Files\PuTTY\;C:\Program Files\dotnet\;C:\Program Files\Docker\Docker\resources\bin;C:\Users\HelpDesk\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\WebStorm 2025.1.1\bin;;C:\Users\HelpDesk\AppData\Local\nvm;C:\nvm4w\nodejs;C:\Users\HelpDesk\AppData\Local\Programs\mongosh\;C:\Users\HelpDesk\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\HelpDesk\.bun\bin;C:\Users\HelpDesk\.local\bin;
+AI_AGENT=claude-code_2-1-198_agent
+EFC_7252_2775293581=1
+NUMBER_OF_PROCESSORS=6
+ENABLE_IDE_INTEGRATION=true
+COREPACK_ENABLE_AUTO_PIN=0
+NoDefaultCurrentDirectoryInExePath=1
+ProgramFiles(x86)=C:\Program Files (x86)
+FPS_BROWSER_USER_PROFILE_STRING=Default
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-F7GIRLE
+EFC_7252_1262719628=1
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ChocolateyInstall=C:\ProgramData\chocolatey
+SystemRoot=C:\WINDOWS
+NVM_SYMLINK=C:\nvm4w\nodejs
+NVM_HOME=C:\Users\HelpDesk\AppData\Local\nvm
+SESSIONNAME=Console
+CommonProgramW6432=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\DESKTOP-F7GIRLE
+USERPROFILE=C:\Users\HelpDesk
+EFC_7252_1592913036=1
+USERDOMAIN=DESKTOP-F7GIRLE
+CLAUDE_CODE_SESSION_ID=91538bd0-e8b4-4817-8f1a-f46900e11c6d
+APPDATA=C:\Users\HelpDesk\AppData\Roaming
+HOMEDRIVE=C:
+TERM_SESSION_ID=621581eb-6be6-4a4b-9b55-54f39ba9a014
+OneDriveCommercial=C:\Users\HelpDesk\OneDrive - PLATINUM SOLUTIONS
+PSModulePath=C:\Users\HelpDesk\OneDrive - PLATINUM SOLUTIONS\Documentos\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+USERNAME=Santiago Reyes
+PROCESSOR_ARCHITEW6432=AMD64
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+SystemDrive=C:
+windir=C:\WINDOWS
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\HelpDesk\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\HelpDesk\AppData\Local\Temp\b0c5451fb542a2585517fa02'... OK
+Reading from temporary file 'C:\Users\HelpDesk\AppData\Local\Temp\b0c5451fb542a2585517fa02'... OK
+Deleting temporary file 'C:\Users\HelpDesk\AppData\Local\Temp\b0c5451fb542a2585517fa02'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\HelpDesk
+UserDataDirectoryPath: C:\Users\HelpDesk\.gcm
+GetCurrentDirectory(): C:\Users\HelpDesk\OneDrive - PLATINUM SOLUTIONS\Documentos\Udemy\Estudios\Nest
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:61949/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.49.0.windows.1'
+Locating current repository...Git repository at 'C:/Users/HelpDesk/OneDrive - PLATINUM SOLUTIONS/Documentos/Udemy/Estudios/Nest/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/HelpDesk/.gitconfig	user.email=santiago.reyes@platinum.net.co
+file:C:/Users/HelpDesk/.gitconfig	user.name=Santiago Reyes
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_nest_glosario.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+file:.git/config	submodule.01-typescript-intro.active=true
+file:.git/config	submodule.01-typescript-intro.url=https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_nest_typescript_intro.git
+file:.git/config	submodule.02-car-dealer-ship.active=true
+file:.git/config	submodule.02-car-dealer-ship.url=https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_nest_car_dealer_ship.git
+file:.git/config	submodule.bases.url=https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_nest_bases.git
+file:.git/config	submodule.bases.active=true
+file:.git/config	submodule.microservices.url=https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_nest_microServices.git
+file:.git/config	submodule.microservices.active=true
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\HelpDesk\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\HelpDesk\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
