@@ -7,3 +7,6 @@
 [submodule "graphQL/02-todo"]
 	path = graphQL/02-todo
 	url = https://github.com/santiago-reyes-buitrago/graphql-todo.git
+[submodule "graphQL/03-anylist"]
+	path = graphQL/03-anylist
+	url = https://github.com/santiago-reyes-buitrago/03-analyst-graphQL.git
